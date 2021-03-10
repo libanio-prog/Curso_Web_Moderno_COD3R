@@ -14,4 +14,5 @@ console.log(valores)
 console.log (valores.pop()) //vai retirar o ultimno valor do Array
 delete valores [0]// vai retirar o item do array que está sendo referenciado no colchete
 
-console.log(typeof valores) //em JS o Array é um objeto 
+console.log(typeof valores) //em JS o Array é um objeto
+
